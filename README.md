@@ -9,3 +9,5 @@ Button OK  GPIO13 / D7
 
 SSID = MarauTech
 Password : deauther
+
+![obraz](https://github.com/user-attachments/assets/70e9e714-cc74-41bc-8c58-d912a15d0612)
