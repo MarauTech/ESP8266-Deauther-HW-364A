@@ -18,4 +18,6 @@ Password : deauther
 
 
 FOLLOW THIS SETTINGS 
+
+
 ![obraz](https://github.com/user-attachments/assets/ce36d354-ade6-4a1c-af47-c9efd2b7ab2b)
